@@ -23,3 +23,11 @@ python smile-detect.py
 ```
 
 Press 'q' to stop recording and quit the program.
+
+## What to expect:
+
+It will look somewhat like this:
+
+![Kaushal's face](/assets/screenshot.png)
+
+It is a very simple implemetation, the output may not be very accurate, but it looks cool nonetheless :)
